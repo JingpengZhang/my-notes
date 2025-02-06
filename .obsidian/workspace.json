@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "6fc2f021bf2c4583",
+    "type": "split",
+    "children": [
+      {
+        "id": "60a2f808a09f18cd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b14ba345f5e37afd",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "183dea3540372d7a",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd46b0dadfa92e39",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6dfdd4332e47aa39",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "e91e8fb3875e6b69",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "e856cc8201d27be9",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "1e263312c6b1cb74",
+    "type": "split",
+    "children": [
+      {
+        "id": "9dd7cbb5fa2e1f83",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7dfe7435e7238d35",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "反向链接"
+            }
+          },
+          {
+            "id": "ff596ef38763bcad",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "a44968bceebe24dd",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "989e143bfe008f94",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "大纲"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b14ba345f5e37afd",
+  "lastOpenFiles": [
+    "NodeJS/NodeJS 用于复制 NextJS 14 打包文件到指定目录脚本.md",
+    "开发/学习计划.md",
+    "开发/ZSH 插件.md",
+    "WordPress/疑难杂症.md",
+    "开发",
+    "WordPress/设置固定连接相关问题.md",
+    "WordPress/常用函数.md",
+    "WordPress/CentOS7 从零部署 WordPress.md",
+    "ThreeJS/CSS3DRender 渲染 iframe 无法交互.md",
+    "WordPress",
+    "ThreeJS/CSS3DObject 网页 IFrame 分辨率.md",
+    "ThreeJS/加载 GLB 模型时报错 setMeshoptDecoder must be called before loading compressed files.md",
+    "Server/Manjaro 安装 deb 包.md",
+    "JS/SSE 相关问题.md",
+    "ThreeJS",
+    "React/在组件外使用 Redux.md",
+    "React/受控输入框输入中文异常.md",
+    "NodeJS",
+    "React/全局弹窗管理器.md",
+    "Mac/未命名.md",
+    "JS/检测文件是否为 PNG.md",
+    "Mac",
+    "JS/修改选择的文件名.md",
+    "IOSWeb/IOS 下会出现无法通过 js 控制音频的播放.md",
+    "JS",
+    "IOSWeb",
+    "Server",
+    "React"
+  ]
+}
