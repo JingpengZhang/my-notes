@@ -1,0 +1,1 @@
+在 CSS 中,有两个属性可以隐藏元素,`display`和`visibility`.- display:none- visibility:hidden## 区别1. 两者都会隐藏自身及子元素,但是`visibility`方式,可以通过设置子元素的`visibility:visible`,使子元素显示出来,达到隐藏自身及其他子元素的效果,而`display`不能.2. `visibility:hidden`隐藏元素后,占据的位置不会消失,`display:none`隐藏元素后,占据的位置会消失.3. 由于第二条,`display:none`会引起回流,而`visibility:hidden`不会.4. CSS3 中的`transition`支持`visibility`属性,不支持`display`属性.

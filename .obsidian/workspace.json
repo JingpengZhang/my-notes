@@ -11,10 +11,14 @@
             "id": "b14ba345f5e37afd",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Gov/成语积累.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "成语积累"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Vue/Vue 学习笔记.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "反向链接"
+              "title": "Vue 学习笔记 的反向链接列表"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Vue/Vue 学习笔记.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "出链"
+              "title": "Vue 学习笔记 的出链列表"
             }
           },
           {
@@ -136,12 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Vue/Vue 学习笔记.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "Vue 学习笔记 的大纲"
             }
           }
         ]
@@ -163,33 +170,41 @@
   },
   "active": "b14ba345f5e37afd",
   "lastOpenFiles": [
-    "NodeJS/NodeJS 用于复制 NextJS 14 打包文件到指定目录脚本.md",
-    "开发/学习计划.md",
-    "开发/ZSH 插件.md",
-    "WordPress/疑难杂症.md",
-    "开发",
-    "WordPress/设置固定连接相关问题.md",
-    "WordPress/常用函数.md",
-    "WordPress/CentOS7 从零部署 WordPress.md",
-    "ThreeJS/CSS3DRender 渲染 iframe 无法交互.md",
-    "WordPress",
-    "ThreeJS/CSS3DObject 网页 IFrame 分辨率.md",
-    "ThreeJS/加载 GLB 模型时报错 setMeshoptDecoder must be called before loading compressed files.md",
-    "Server/Manjaro 安装 deb 包.md",
-    "JS/SSE 相关问题.md",
-    "ThreeJS",
-    "React/在组件外使用 Redux.md",
-    "React/受控输入框输入中文异常.md",
-    "NodeJS",
-    "React/全局弹窗管理器.md",
+    "Coder/开发/NeoVim.md",
+    "Gov/成语积累.md",
+    "Gov",
+    "Banker/金融/非银行类金融机构.md",
+    "Banker/金融/银行理财产品.md",
+    "Banker/金融/金融市场概述.md",
+    "Banker/金融/货币制度.md",
+    "Banker/金融/商业银行负债业务.md",
+    "Banker/金融/商业银行概述.md",
+    "Banker/金融/信用工具.md",
+    "Banker/金融/互联网金融.md",
+    "Banker/金融",
+    "Banker/经济学基础/不完全竞争市场.md",
+    "Banker/经济学基础",
+    "Banker",
+    "Coder",
+    "Coder/Mac/Ngnix.md",
     "Mac/未命名.md",
-    "JS/检测文件是否为 PNG.md",
-    "Mac",
-    "JS/修改选择的文件名.md",
-    "IOSWeb/IOS 下会出现无法通过 js 控制音频的播放.md",
-    "JS",
-    "IOSWeb",
-    "Server",
-    "React"
+    "Coder/JavaScript/JavaScript 中的 call 方法.md",
+    "Coder/面试题/display和visibility隐藏元素.md",
+    "Coder/ThreeJS/加载 GLB 模型时报错 setMeshoptDecoder must be called before loading compressed files.md",
+    "Coder/面试题",
+    "Coder/ThreeJS/杂记.md",
+    "Coder/JavaScript/IOS 下会出现无法通过 js 控制音频的播放.md",
+    "Coder/WordPress/邮件发送.md",
+    "Coder/WordPress/自定义主题.md",
+    "Coder/WordPress/常用函数.md",
+    "Coder/WordPress/设置固定连接相关问题.md",
+    "Coder/WordPress/CentOS7 从零部署 WordPress.md",
+    "Coder/WordPress/疑难杂症.md",
+    "Coder/Vue/资源地址改变预览却不更新.md",
+    "Coder/uniapp/uniapp 开发 VSCode 常用插件.md",
+    "Coder/uniapp",
+    "Coder/Java/学习笔记",
+    "Coder/Java",
+    "Coder/GoLang"
   ]
 }
