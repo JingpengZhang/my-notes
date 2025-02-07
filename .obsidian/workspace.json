@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coder/NextJS/权限验证.md",
+                "file": "Coder/面试题/面试记录/250207.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "权限验证"
+              "title": "250207"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Coder/NextJS/权限验证.md",
+                "file": "Coder/面试题/面试记录/250207.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "权限验证 的反向链接列表"
+              "title": "250207 的反向链接列表"
             }
           },
           {
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coder/NextJS/权限验证.md",
+                "file": "Coder/面试题/面试记录/250207.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "权限验证 的大纲"
+              "title": "250207 的大纲"
             }
           }
         ],
@@ -171,8 +171,11 @@
   },
   "active": "b14ba345f5e37afd",
   "lastOpenFiles": [
-    "Coder/JavaScript/SSE 相关问题.md",
+    "Coder/面试题/未命名.md",
+    "Coder/面试题/面试记录/250207.md",
+    "Coder/面试题/面试记录",
     "Coder/NextJS/权限验证.md",
+    "Coder/JavaScript/SSE 相关问题.md",
     "Coder/NextJS",
     "Coder/JavaScript/MQTT 相关问题.md",
     "Coder/ThreeJS/内存溢出导致页面重复刷新.md",
@@ -202,10 +205,7 @@
     "Coder/ThreeJS/杂记.md",
     "Coder/JavaScript/IOS 下会出现无法通过 js 控制音频的播放.md",
     "Coder/WordPress/邮件发送.md",
-    "Coder/WordPress/自定义主题.md",
-    "Coder/WordPress/常用函数.md",
     "Coder/uniapp",
-    "Coder/Java/学习笔记",
-    "Coder/Java"
+    "Coder/Java/学习笔记"
   ]
 }
