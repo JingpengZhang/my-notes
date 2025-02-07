@@ -1,3 +1,5 @@
 {
-  "cssTheme": "Catppuccin"
+  "cssTheme": "Catppuccin",
+  "textFontFamily": "圆体-简",
+  "monospaceFontFamily": "JetBrains Mono"
 }
