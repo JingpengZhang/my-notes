@@ -8,4 +8,3 @@
 WebSocket connection to 'wss://mqtt.showinfo.com.cn:8084/mqtt' failed: The certificate for this server is invalid. You might be connecting to a server that is pretending to be “mqtt.showinfo.com.cn” which could put your confidential information at risk.
 ```
 
-初步判定为
