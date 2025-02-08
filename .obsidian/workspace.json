@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coder/React/全局弹窗管理器.md",
-                "mode": "preview",
+                "file": "Coder/未命名.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "全局弹窗管理器"
+              "title": "未命名"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coder/React/全局弹窗管理器.md",
+                "file": "Coder/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "全局弹窗管理器 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -171,6 +171,8 @@
   },
   "active": "b14ba345f5e37afd",
   "lastOpenFiles": [
+    "Coder/React/全局弹窗管理器.md",
+    "Coder/未命名.md",
     "Coder/面试题/面试记录/250207.md",
     "Coder/面试题/未命名.md",
     "Coder/面试题/面试记录",
@@ -203,8 +205,6 @@
     "Coder/ThreeJS/加载 GLB 模型时报错 setMeshoptDecoder must be called before loading compressed files.md",
     "Coder/面试题",
     "Coder/ThreeJS/杂记.md",
-    "Coder/JavaScript/IOS 下会出现无法通过 js 控制音频的播放.md",
-    "Coder/WordPress/邮件发送.md",
     "Coder/uniapp",
     "Coder/Java/学习笔记"
   ]
