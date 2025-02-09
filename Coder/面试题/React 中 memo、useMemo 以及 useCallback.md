@@ -40,4 +40,8 @@ const Child = memo(() => {
 export default Child;
 ```
 
-### 
+### useMemo
+
+#### 应用场景
+
+将父组件中的函数 `fn` 作为 `props` 传入子组件，子组件调用
