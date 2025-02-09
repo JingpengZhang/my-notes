@@ -29,4 +29,5 @@ fnm env --use-on-cd | Out-String | Invoke-Expression
 
 - `fnm list-remote` - 查看可安装的 node 版本；
 - `fnm list` - 查看已安装的 node 版本；
-- `fnm use` - 如果运行目录中存在 `.nvmrc` 文件，将会切换
+- `fnm install xxx` - 安装指定版本的 node，如果只指定 `20` 
+- `fnm use` - 如果运行目录中存在 `.nvmrc` 文件，将会切换到文件中指定的 node 版本（前提是该版本已安装）；
