@@ -31,3 +31,4 @@ fnm env --use-on-cd | Out-String | Invoke-Expression
 - `fnm list` - 查看已安装的 node 版本；
 - `fnm install xxx` - 安装指定版本的 node，如果只指定了主版本号，将会安装该主版本最新的版本，如 `fnm install 22` 等于 `fnm install 22.13.1`；
 - `fnm use` - 如果运行目录中存在 `.nvmrc` 文件，将会切换到文件中指定的 node 版本（前提是该版本已安装）；
+- `fnm use xxx`- 切换到指定版本；
