@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coder/开发/Windows 通过 SSH 连接 github 出错.md",
+                "file": "Coder/开发/开发工具推荐.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Windows 通过 SSH 连接 github 出错"
+              "title": "开发工具推荐"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "right": {
     "id": "1e263312c6b1cb74",
@@ -143,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coder/开发/Windows 通过 SSH 连接 github 出错.md",
+                "file": "Coder/开发/开发工具推荐.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Windows 通过 SSH 连接 github 出错 的大纲"
+              "title": "开发工具推荐 的大纲"
             }
           }
         ],
@@ -172,8 +171,9 @@
   },
   "active": "b14ba345f5e37afd",
   "lastOpenFiles": [
-    "Coder/NextJS/多环境设置.md",
     "Coder/开发/Windows 通过 SSH 连接 github 出错.md",
+    "Coder/开发/开发工具推荐.md",
+    "Coder/NextJS/多环境设置.md",
     "Coder/面试题/面试记录/250207.md",
     "Coder/前端技术.md",
     "Coder/React/全局弹窗管理器.md",
@@ -204,7 +204,6 @@
     "Coder/Mac/Ngnix.md",
     "Mac/未命名.md",
     "Coder/JavaScript/JavaScript 中的 call 方法.md",
-    "Coder/面试题/display和visibility隐藏元素.md",
     "Coder/面试题",
     "Coder/uniapp",
     "Coder/Java/学习笔记"
