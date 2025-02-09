@@ -5,7 +5,7 @@
 通过 windows 包管理器命令行工具 `winget` 安装 `fnm` :
 
 ```shell
-
+winget install Schniz.fnm --source winget
 ```
 
 ```shell
