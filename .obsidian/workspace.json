@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coder/开发/未命名.md",
+                "file": "Coder/开发/Windows 终端使用 npm 命令报错.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "未命名"
+              "title": "Windows 终端使用 npm 命令报错"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coder/开发/未命名.md",
+                "file": "Coder/开发/Windows 终端使用 npm 命令报错.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "未命名 的大纲"
+              "title": "Windows 终端使用 npm 命令报错 的大纲"
             }
           }
         ],
@@ -172,7 +172,7 @@
   "active": "b14ba345f5e37afd",
   "lastOpenFiles": [
     "Coder/开发/Windows 安装 fnm.md",
-    "Coder/开发/未命名.md",
+    "Coder/开发/Windows 终端使用 npm 命令报错.md",
     "Coder/面试题/面试记录/250207.md",
     "Coder/面试题/未命名.md",
     "Coder/开发/开发工具推荐.md",
