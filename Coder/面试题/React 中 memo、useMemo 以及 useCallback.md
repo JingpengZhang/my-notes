@@ -6,42 +6,12 @@
 
 使用 `memo()` 包裹住子组件，可以在该场景下，子组件不会重新渲染。
 
-#### 使用示例
-
-```tsx
-const Father = () => {
-  console.log("Father 渲染了");
-
-  const [count, setCount] = useState(0);
-
-  return (
-    <>
-      <h1>Father</h1>
-      <p>count: {count}</p>
-      <button onClick={() => setCount(count + 1)}>add</button>
-      <Child />
-    </>
-  );
-};
-export default Father;
-
-```
-
-```tsx
-const Child = memo(() => {
-  console.log("Child 渲染了");
-
-  return (
-    <>
-      <h1>Child</h1>
-    </>
-  );
-});
-export default Child;
-```
+#### ```
 
 ### useMemo
 
 #### 应用场景
 
-将父组件中的函数 `fn` 作为 `props` 传入子组件，在父组件更新 `state` 时，由于会重新渲染
+将父组件中的函数 `fn` 作为 `props` 传入子组件，在父组件更新 `state` 时，会重新渲染，导致重新创建 `fn` ，继而引发子组件重新渲染。
+
+使用 `useCallback` 处理 `fn` 可避免子组件重新渲染。
