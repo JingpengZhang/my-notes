@@ -1,5 +1,4 @@
 
-
 都是为了解决 React 在改变引用数据类型数据时，引起组件不必要重新渲染的问题。
 ### memo
 
@@ -30,3 +29,7 @@
 
 - `useMemo` 的作用对象是变量，`useCallback` 的作用对象是函数；
 - `useCallback` 会返回回调函数，而 `useMemo` 会执行回调函数；
+
+### 参考
+
+[memo()、useCallback()、useMemo()使用场景](https://juejin.cn/post/7039256825656524807)
