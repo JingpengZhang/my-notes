@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coder/面试题/面试记录/250207.md",
+                "file": "Coder/面试题/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "250207"
+              "title": "未命名"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coder/面试题/面试记录/250207.md",
+                "file": "Coder/面试题/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "250207 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -171,9 +171,10 @@
   },
   "active": "b14ba345f5e37afd",
   "lastOpenFiles": [
+    "Coder/面试题/面试记录/250207.md",
+    "Coder/面试题/未命名.md",
     "Coder/面试题/如何使用 CSS 实现 `0.5px`.md",
     "Coder/面试题/display和visibility隐藏元素.md",
-    "Coder/面试题/面试记录/250207.md",
     "Coder/面试题/React 中 memo、useMemo 以及 useCallback.md",
     "Coder/开发/Windows 终端使用 npm 命令报错 `无法加载文件...`.md",
     "Coder/开发/Windows 安装 fnm.md",
@@ -199,7 +200,6 @@
     "Banker/金融/商业银行负债业务.md",
     "Banker/金融/商业银行概述.md",
     "Banker/金融/信用工具.md",
-    "Banker/金融/互联网金融.md",
     "Banker/金融",
     "Banker/经济学基础",
     "Banker",
