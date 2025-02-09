@@ -1,6 +1,6 @@
 ### 介绍
 
-`fnm` 是基于 Rust 的 Node.js 版本管理工具，可代替 Node Version Manager（`nvm`）。
+`fnm` 是基于 Rust 的 NodeJS 版本管理工具，可代替 Node Version Manager（`nvm`）。
 
 ### 安装配置
 
@@ -24,3 +24,9 @@ Check out our documentation for more information: https://fnm.vercel.app
 fnm env --use-on-cd | Out-String | Invoke-Expression
 ```
 
+
+### 常用命令
+
+- `fnm list-remote` - 查看可安装的 node 版本；
+- `fnm list` - 查看已安装的 node 版本；
+-  
