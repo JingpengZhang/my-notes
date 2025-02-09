@@ -3,3 +3,8 @@
 ### 安装配置
 
 通过 windows 包管理器 `winget` 安装
+
+```shell
+fnm env --use-on-cd | Out-String | Invoke-Expression
+```
+
