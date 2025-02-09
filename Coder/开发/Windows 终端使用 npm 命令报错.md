@@ -16,5 +16,15 @@ npm : 无法加载文件 C:\Users\41261\AppData\Local\fnm_multishells\21172_1739
 
 #### 查看执行策略/权限
 
+```shell
+get-ExecutionPolicy
 ```
+
+如果控制台输出 `Restricted`，执行下一步。
+
+#### 赋予权限
+
+```shell
+ Set-ExecutionPolicy -Scope CurrentUser
 ```
+
