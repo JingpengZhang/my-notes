@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coder/NextJS/多环境设置.md",
+                "file": "Coder/开发/Windows 通过 SSH 连接 github 出错.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "多环境设置"
+              "title": "Windows 通过 SSH 连接 github 出错"
             }
           }
         ]
@@ -78,7 +78,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "1e263312c6b1cb74",
@@ -142,13 +143,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coder/NextJS/多环境设置.md",
+                "file": "Coder/开发/Windows 通过 SSH 连接 github 出错.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "多环境设置 的大纲"
+              "title": "Windows 通过 SSH 连接 github 出错 的大纲"
             }
           }
         ],
@@ -156,23 +157,24 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
-      "command-palette:打开命令面板": false
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "b14ba345f5e37afd",
   "lastOpenFiles": [
-    "Coder/面试题/面试记录/250207.md",
     "Coder/NextJS/多环境设置.md",
+    "Coder/开发/Windows 通过 SSH 连接 github 出错.md",
+    "Coder/面试题/面试记录/250207.md",
     "Coder/前端技术.md",
     "Coder/React/全局弹窗管理器.md",
     "Coder/面试题/未命名.md",
@@ -203,7 +205,6 @@
     "Mac/未命名.md",
     "Coder/JavaScript/JavaScript 中的 call 方法.md",
     "Coder/面试题/display和visibility隐藏元素.md",
-    "Coder/ThreeJS/加载 GLB 模型时报错 setMeshoptDecoder must be called before loading compressed files.md",
     "Coder/面试题",
     "Coder/uniapp",
     "Coder/Java/学习笔记"
