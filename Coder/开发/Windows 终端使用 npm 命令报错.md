@@ -28,3 +28,10 @@ get-ExecutionPolicy
  Set-ExecutionPolicy -Scope CurrentUser
 ```
 
+根据提示输入：
+
+```shell
+RemoteSigned
+```
+ 
+再次查看权限，控制台输出 `RemoteSigned`，即表示成功。
