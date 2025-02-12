@@ -1,5 +1,6 @@
 {
   "cssTheme": "Catppuccin",
   "textFontFamily": "圆体-简",
-  "monospaceFontFamily": "JetBrains Mono"
+  "monospaceFontFamily": "JetBrains Mono",
+  "translucency": true
 }
