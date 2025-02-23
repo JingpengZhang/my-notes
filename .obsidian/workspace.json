@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Coder/NextJS/打包报错的情况.md",
+                "file": "Gov/公共基础知识/未命名.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "打包报错的情况"
+              "title": "未命名"
             }
           }
         ]
@@ -142,13 +142,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Coder/NextJS/打包报错的情况.md",
+                "file": "Gov/公共基础知识/未命名.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "打包报错的情况 的大纲"
+              "title": "未命名 的大纲"
             }
           }
         ],
@@ -171,8 +171,10 @@
   },
   "active": "b14ba345f5e37afd",
   "lastOpenFiles": [
-    "Coder/面试题/React 中 memo、useMemo 以及 useCallback.md",
     "Coder/NextJS/打包报错的情况.md",
+    "Gov/公共基础知识/未命名.md",
+    "Gov/公共基础知识",
+    "Coder/面试题/React 中 memo、useMemo 以及 useCallback.md",
     "Coder/面试题/防抖（Debounce）和节流（Throttle）.md",
     "Coder/JavaScript/修改选择的文件名.md",
     "Coder/面试题/面试集合.md",
@@ -199,13 +201,11 @@
     "Banker/金融/银行理财产品.md",
     "Banker/金融/金融市场概述.md",
     "Banker/金融/货币制度.md",
-    "Banker/金融/商业银行负债业务.md",
     "Banker/金融",
     "Banker/经济学基础",
     "Banker",
     "Coder",
     "Coder/面试题",
-    "Coder/uniapp",
-    "Coder/Java/学习笔记"
+    "Coder/uniapp"
   ]
 }
