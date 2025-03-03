@@ -8,4 +8,10 @@
 
 下载 PDFMaker.js 源码（从[GitHub仓库](https://github.com/bpampuch/pdfmake)克隆）；
 
-将下载的字体文件放入
+将下载的字体文件放入 `example/fonts` 文件夹中， 如果不需要默认的字体支持，可以先清空这个文件夹。
+
+在源码根目录运行脚本：
+
+```bash
+
+```
