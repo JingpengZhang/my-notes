@@ -13,5 +13,11 @@
 在源码根目录运行脚本：
 
 ```bash
-
+node build-vfs.js ./examples/fonts
 ```
+
+将会生成 `./build/vfs_fonts.js` 文件。
+
+
+### 使用
+
