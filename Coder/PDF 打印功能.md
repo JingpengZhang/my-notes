@@ -21,3 +21,5 @@ node build-vfs.js ./examples/fonts
 
 ### 使用
 
+将 `build` 文件夹中的 `pdfmake.min.js`  以及 `vfs_fonts.js` 这两个文件拷贝到项目中即可使用，这里以 'V'
+
