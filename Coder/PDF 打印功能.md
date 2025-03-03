@@ -34,12 +34,11 @@ export default {
 
 	      if (this.pdfMake.vfs === undefined) {
 	        const fonts = require("../../../plugins/vfs_fonts.js");
-	        console.log(fonts);
 	        this.pdfMake.vfs = fonts;
 	      }
 
 	      pdfMake.fonts = {
-			// 如果不确定打包的
+			// 如果不确定打包的字体名叫什么，可通过 console.log(fonts) 查看
 	        FZFS: {
 	          normal: "FangZhengShuSong-GBK-1.ttf",
 	          bold: "FangZhengShuSong-GBK-1.ttf",
