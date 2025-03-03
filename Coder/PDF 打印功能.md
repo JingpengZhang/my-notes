@@ -24,6 +24,38 @@ node build-vfs.js ./examples/fonts
 将 `build` 文件夹中的 `pdfmake.min.js`  以及 `vfs_fonts.js` 这两个文件拷贝到项目中即可使用，这里以 'vue2' 项目举例。
 
 ```vue
+<script>
+export default {
+
+}
+
+</script>
+    // 处理导出
+    async handleExport() {
+      this.pdfMake = require("../../../plugins/pdfmake.min.js");
+      console.log(this.pdfMake, this.pdfMake.vfs);
+
+      if (this.pdfMake.vfs === undefined) {
+        const fonts = require("../../../plugins/vfs_fonts.js");
+        console.log(fonts);
+
+        this.pdfMake.vfs = fonts;
+      }
+
+      pdfMake.fonts = {
+        FZFS: {
+          normal: "FangZhengShuSong-GBK-1.ttf",
+          bold: "FangZhengShuSong-GBK-1.ttf",
+          italics: "FangZhengShuSong-GBK-1.ttf",
+          bolditalics: "FangZhengShuSong-GBK-1.ttf",
+        },
+      };
+      const docDefinition = {
+        content: "测试,Hellow",
+        defaultStyle: { font: "FZFS" },
+      };
+      this.pdfMake.createPdf(docDefinition).download("测试.pdf");
+    },
 
 ```
 
