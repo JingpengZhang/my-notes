@@ -26,11 +26,8 @@ node build-vfs.js ./examples/fonts
 ```vue
 <script>
 export default {
-
-}
-
-</script>
-    // 处理导出
+methods:{
+   // 处理导出
     async handleExport() {
       this.pdfMake = require("../../../plugins/pdfmake.min.js");
       console.log(this.pdfMake, this.pdfMake.vfs);
@@ -56,6 +53,8 @@ export default {
       };
       this.pdfMake.createPdf(docDefinition).download("测试.pdf");
     },
-
+}
+}
+</script>
 ```
 
