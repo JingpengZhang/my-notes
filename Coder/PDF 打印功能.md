@@ -26,34 +26,35 @@ node build-vfs.js ./examples/fonts
 ```vue
 <script>
 export default {
-methods:{
-   // 处理导出
-    async handleExport() {
-      this.pdfMake = require("../../../plugins/pdfmake.min.js");
-      console.log(this.pdfMake, this.pdfMake.vfs);
+	methods:{
+	   // 处理导出
+	    async handleExport() {
+	      this.pdfMake = require("../../../plugins/pdfmake.min.js");
+	      console.log(this.pdfMake, this.pdfMake.vfs);
 
-      if (this.pdfMake.vfs === undefined) {
-        const fonts = require("../../../plugins/vfs_fonts.js");
-        console.log(fonts);
+	      if (this.pdfMake.vfs === undefined) {
+	        const fonts = require("../../../plugins/vfs_fonts.js");
+	        console.log(fonts);
+	        this.pdfMake.vfs = fonts;
+	      }
 
-        this.pdfMake.vfs = fonts;
-      }
-
-      pdfMake.fonts = {
-        FZFS: {
-          normal: "FangZhengShuSong-GBK-1.ttf",
-          bold: "FangZhengShuSong-GBK-1.ttf",
-          italics: "FangZhengShuSong-GBK-1.ttf",
-          bolditalics: "FangZhengShuSong-GBK-1.ttf",
-        },
-      };
-      const docDefinition = {
-        content: "测试,Hellow",
-        defaultStyle: { font: "FZFS" },
-      };
-      this.pdfMake.createPdf(docDefinition).download("测试.pdf");
+	      pdfMake.fonts = {
+			// 如果不确定打包的
+	        FZFS: {
+	          normal: "FangZhengShuSong-GBK-1.ttf",
+	          bold: "FangZhengShuSong-GBK-1.ttf",
+	          italics: "FangZhengShuSong-GBK-1.ttf",
+	          bolditalics: "FangZhengShuSong-GBK-1.ttf",
+	        },
+	      };
+	      
+	      const docDefinition = {
+	        content: "测试,Hellow",
+	        defaultStyle: { font: "FZFS" },
+	      };
+	      this.pdfMake.createPdf(docDefinition).download("测试.pdf");
     },
-}
+  }
 }
 </script>
 ```
