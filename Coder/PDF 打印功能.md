@@ -30,7 +30,6 @@ export default {
 	   // 处理导出
 	    async handleExport() {
 	      this.pdfMake = require("../../../plugins/pdfmake.min.js");
-	      console.log(this.pdfMake, this.pdfMake.vfs);
 
 	      if (this.pdfMake.vfs === undefined) {
 	        const fonts = require("../../../plugins/vfs_fonts.js");
