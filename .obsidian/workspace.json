@@ -169,8 +169,9 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b14ba345f5e37afd",
+  "active": "6dfdd4332e47aa39",
   "lastOpenFiles": [
+    "Coder/NestJS",
     "Coder/前端技术.md",
     "Coder/PDF 打印功能.md",
     "Gov/公共基础知识/经济.md",
@@ -200,7 +201,6 @@
     "Gov",
     "Banker/金融/非银行类金融机构.md",
     "Banker/金融/银行理财产品.md",
-    "Banker/金融/金融市场概述.md",
     "Banker/金融",
     "Banker/经济学基础",
     "Banker",
