@@ -1,1 +1,1 @@
-在 `prisma/seed.ts` w
+在 `prisma/seed.ts` 文件中使用到了 `bcrypt` 依赖后，在使用 `npx `
