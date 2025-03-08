@@ -30,6 +30,8 @@ Error: Command failed with exit code 1: ts-node --compiler-options {"module":"Co
 
 #### 解决办法
 
-使用
+进入  `/Users/jingpengzhang/Projects/Peng/poccur_server/node_modules/.pnpm/bcrypt@5.1.1/node_modules/bcrypt/` 目录，运行命令
 
 #### 参考
+
+https://github.com/kelektiv/node.bcrypt.js/issues/800
