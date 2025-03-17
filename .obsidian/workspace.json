@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "RouterBack 返回失效oshixaoo"
             }
+          },
+          {
+            "id": "aab556c990633fca",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.9"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.9"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -169,7 +182,7 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "b14ba345f5e37afd",
+  "active": "aab556c990633fca",
   "lastOpenFiles": [
     "Coder/开发/学习网站.md",
     "Coder/NextJS/RouterBack 返回失效oshixaoo.md",
